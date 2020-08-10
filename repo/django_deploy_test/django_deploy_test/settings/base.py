@@ -34,7 +34,7 @@ SECRET_KEY = '!bdop!+$*mp#x@=a#a26j@vuhwt5t+50os@^4@6)t=18+l()_6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
